@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.beacon-conduit-tweaks.title": "Beacon & Conduit Tweaks Config",
+    "text.autoconfig.beacon-conduit-tweaks.option.reset": "Restore Defaults",
+    "text.autoconfig.beacon-conduit-tweaks.option.beaconBaseRange": "Base Beacon Range (default 10)",
+    "text.autoconfig.beacon-conduit-tweaks.option.beaconRangePerLevel": "Beacon Range / Level (default 10)",
+    "text.autoconfig.beacon-conduit-tweaks.option.beaconRangePerBlock": "Beacon Range / Block",
+    "text.autoconfig.beacon-conduit-tweaks.option.conduitAddVanillaRange": "Conduit: Add Vanilla Range",
+    "text.autoconfig.beacon-conduit-tweaks.option.conduitRangePerBlock": "Conduit Range / Block"
+}

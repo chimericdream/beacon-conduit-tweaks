@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.chimericdream.bctweaks.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "BCTweaksBeaconMixin",
+        "BCTweaksConduitMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
