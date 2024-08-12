@@ -3,7 +3,7 @@
     "id": "beacon-conduit-tweaks",
     "version": "${version}",
     "name": "Beacon & Conduit Tweaks",
-    "description": "Customizable, vanilla-friendly tweaks to beacons and conduits ",
+    "description": "Customizable, vanilla-friendly tweaks to beacons and conduits",
     "authors": [
         "chimericdream"
     ],
